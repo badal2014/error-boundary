@@ -1,0 +1,2 @@
+(window["webpackJsonpcomponent-life-cycle"]=window["webpackJsonpcomponent-life-cycle"]||[]).push([[3],{37:function(e,n,t){"use strict";t.r(n),t.d(n,"default",(function(){return p}));var c=t(5),a=t(6),o=t(8),r=t(7),u=t(9),i=t(0),l=t.n(i),p=function(e){function n(){return Object(c.a)(this,n),Object(o.a)(this,Object(r.a)(n).apply(this,arguments))}return Object(u.a)(n,e),Object(a.a)(n,[{key:"render",value:function(){return l.a.createElement("h3",null,"Lazy  Load")}}]),n}(l.a.Component)}}]);
+//# sourceMappingURL=3.40e2bdb5.chunk.js.map

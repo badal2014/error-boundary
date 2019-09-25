@@ -1,0 +1,1 @@
+{"version":3,"sources":["lazyLoad.js"],"names":["LazyLoad","React","Component"],"mappings":"6OAEqBA,E,iLAEb,OACI,8C,GAH0BC,IAAMC","file":"static/js/3.40e2bdb5.chunk.js","sourcesContent":["import React from 'react';\n\nexport default class LazyLoad extends React.Component{\n    render(){\n        return(\n            <h3>Lazy  Load</h3>\n        )\n    }\n}"],"sourceRoot":""}
