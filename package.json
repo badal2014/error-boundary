@@ -6,7 +6,7 @@
     "express": "^4.17.1",
     "express-favicon": "^2.0.1",
     "hash-router": "^0.4.0",
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.23",
     "lodash.debounce": "^4.0.8",
     "path": "^0.12.7",
     "react": "^16.9.0",
